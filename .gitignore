@@ -31,3 +31,5 @@
 /config/master.key
 .idea/
 /spring/*.pid
+
+/public/uploads
